@@ -14,7 +14,9 @@ public class DesvioEncadeado {
 	
 		/*Aqui devemos criar uma solução para realizar as verificações.*/
 		
-		
+		if(idade >= 12) {
+			System.out.println("Voce pode jogar");
+		}
 	
 		leitor.close();
 
